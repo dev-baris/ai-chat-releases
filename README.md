@@ -4,7 +4,7 @@ AI-Chat is an chatbot that writes text. You can use it to write stories, message
 
 ## Features
 
-KI-Chat comes with a bundle of amazing features! Here are some of them:
+AI-Chat comes with a bundle of amazing features! Here are some of them:
 
 - Proxy to bypass ChatGPT regional restrictions
 - Prompt library
