@@ -1,32 +1,33 @@
 # AI-Chat
 
-AI-Chat is an chatbot that writes text. You can use it to write stories, messages, or programming code.
+AI-Chat, metin yazan bir sohbet botudur. Hikayeler, mesajlar veya programlama kodu yazmak için kullanabilirsiniz.
 
-## Features
+## Özellikler
 
-AI-Chat comes with a bundle of amazing features! Here are some of them:
+AI-Chat'in birçok harika özelliği vardır! İşte bazıları:
 
-- Proxy to bypass ChatGPT regional restrictions
-- Prompt library
-- Organize chats into folders
-- Filter chats and folders
-- Token count and pricing
-- Custom model parameters (e.g. presence_penalty)
-- Chat as user / assistant / system
-- Edit, reorder and insert any messages, anywhere
-- Chat title generator
-- Save chat automatically to local storage
-- Import / Export chat
-- Download chat (markdown / image / json)
-- Multiple language support (i18n)
+- Prompt kütüphanesi
+- Sohbetleri klasörlere organize etme
+- Sohbetleri ve klasörleri filtreleme
+- Token sayımı ve fiyatlandırma
+- Özel model parametreleri (örn. presence_penalty)
+- Kullanıcı / asistan / sistem olarak sohbet etme
+- Herhangi bir mesajı herhangi bir yere düzenleme, yeniden sıralama ve ekleme
+- Sohbet başlığı oluşturma aracı
+- Sohbeti otomatik olarak yerel depolamaya kaydetme
+- Sohbet içeriği alma / dışa aktarma
+- Sohbet indirme (markdown / görüntü / json)
+- Çoklu dil desteği
 
-## Desktop App
+## Masaüstü uygulaması
 
-| OS      | Download  |
+| OS      | Indir     |
 | ------- | --------- |
 | Windows | .exe      |
 | MacOS   | .dmg      |
 | Linux   | .AppImage |
+
+https://github.com/dev-baris/ai-chat-releases/releases
 
 \
 <a href="https://www.buymeacoffee.com/barisaydin" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
